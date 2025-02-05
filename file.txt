@@ -1,3 +1,3 @@
 This is an example. 
 First change through VS Code.
-Second change.
+Second change through editing repository in GitHub.
